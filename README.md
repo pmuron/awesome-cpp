@@ -1,2 +1,2 @@
 # awesome-cpp
-Awesome C++ libraries and articles
+Collection of awesome C++ libraries, articles and other random notes
